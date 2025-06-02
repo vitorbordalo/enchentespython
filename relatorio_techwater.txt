@@ -1,0 +1,28 @@
+Relatório de Monitoramento de Enchentes - Tech Water
+# Aluno: Vitor Bordalo | RM: 123456
+
+Local: Centro
+Níveis registrados: 2.06, 1.71, 1.89, 2.37, 2.33, 2.39, 1.81, 1.54, 1.64, 2.48
+Limite seguro: 2.00 m
+ALERTAS: Dia 1 (2.06 m), Dia 4 (2.37 m), Dia 5 (2.33 m), Dia 6 (2.39 m), Dia 10 (2.48 m)
+Previsão para amanhã: 1.89 m
+
+Local: Zona Norte
+Níveis registrados: 1.58, 1.68, 1.86, 2.02, 2.31, 2.19, 1.59, 2.01, 1.54, 2.27
+Limite seguro: 2.50 m
+Nenhum risco de enchente.
+Previsão para amanhã: 1.94 m
+
+Local: Zona Sul
+Níveis registrados: 1.84, 2.19, 1.75, 2.01, 2.49, 2.42, 2.26, 1.52, 2.12, 2.29
+Limite seguro: 2.20 m
+ALERTAS: Dia 5 (2.49 m), Dia 6 (2.42 m), Dia 7 (2.26 m), Dia 10 (2.29 m)
+Previsão para amanhã: 1.98 m
+
+Local: Bairro Industrial
+Níveis registrados: 1.58, 2.42, 2.31, 2.15, 1.84, 2.40, 1.76, 1.57, 2.22, 1.68
+Limite seguro: 2.30 m
+ALERTAS: Dia 2 (2.42 m), Dia 3 (2.31 m), Dia 6 (2.40 m)
+Previsão para amanhã: 1.82 m
+
+Relatório gerado pelo sistema Tech Water.
