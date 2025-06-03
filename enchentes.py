@@ -20,7 +20,7 @@ def validar_entrada(valor):
         if nivel < 0:
             print("[ERRO] Nível não pode ser negativo.")
             return None
-        if nivel > 20:
+        if nivel > 9:
             print("[ERRO] Valor muito alto. Verifique se está correto (em metros).")
             return None
         return nivel
